@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         start.setOnClickListener(v -> {
 //            textView.setVisibility(View.GONE);
             startActivity(intent);
-            
+
 
         });
         Button stop = findViewById(R.id.button);
