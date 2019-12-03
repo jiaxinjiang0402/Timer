@@ -10,18 +10,18 @@
     android:orientation="vertical"
     app:layout_goneMarginLeft="160dp"
     tools:context=".clockView">
-    <!--填写倒计时时间-->
+    //<!--填写倒计时时间-->
     <EditText
         android:id="@+id/input"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="50dp"
         android:ems="10" />
-    <!--获取倒计时时间-->
-    <!--显示倒计时-->
+    //<!--获取倒计时时间-->
+    //<!--显示倒计时-->
 
-    <!--开始计时-->
-    <!--停止计时-->
+    //<!--开始计时-->
+    //<!--停止计时-->
     <TextView
         android:id="@+id/time"
         android:layout_width="234dp"
