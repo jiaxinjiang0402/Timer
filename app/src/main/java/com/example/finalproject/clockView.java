@@ -117,6 +117,7 @@ public class clockView extends AppCompatActivity implements View.OnClickListener
         }
     };
 
+
     public void stopTime() {
         timer.cancel();
     }
