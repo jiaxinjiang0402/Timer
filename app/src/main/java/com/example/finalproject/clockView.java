@@ -22,7 +22,6 @@ public class clockView extends AppCompatActivity implements View.OnClickListener
     private TextView time;
     private int second = 0;
     private Timer timer = null;
-    private TimerTask task = null;
     private int index = 0;
 
     @Override
